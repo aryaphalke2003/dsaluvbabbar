@@ -16,8 +16,11 @@ class Solution
         int j=0;
         
         if(s==0)
-        return {-1};
+        return {-1};        
         
+
+
+
         while(j<=n)
         {
             if(cs<s)
